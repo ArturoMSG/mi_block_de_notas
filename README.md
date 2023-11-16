@@ -1,7 +1,7 @@
 # MI BLOG DE NOTAS
 notas de mi curso de aprendizaje de Master en Coding
 
-[1.- Intro a la Web](temario/modulo_1.md)
+[1.- Intro a la Web](temario/modulo_1_.md)
 
 Aprender a trabajar con HTML y CSS para desarrollar sitios web estáticos responsivos y el uso básico de Git y Github para generar portafolio y desplegar sitios web.
 
