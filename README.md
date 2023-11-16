@@ -32,6 +32,10 @@ Aprender a trabajar con HTML y CSS para desarrollar sitios web estáticos respon
 
 8.- JavaScript Avanzado
 
+
+
+[sintaxis de markdoun](https://www.markdownguide.org/basic-syntax/)
+
    Usar Node.js y trabajar conceptos avanzados de JS como Async y EventLoop. Aprender a instalar y utilizar paquetes de NPM. Aprender a consumir APIs mediante peticiones HTTP.
 
 9.- Frontend
