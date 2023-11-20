@@ -1,23 +1,6 @@
-4.- JavaScript Avanzado
+# Modulo 6
 
-Usar Node.js y trabajar conceptos avanzados de JS como Async y EventLoop. Aprender a instalar y utilizar paquetes de NPM. Aprender a consumir APIs mediante peticiones HTTP.
-
-5.- Frontend
-
-Obtener los conocimientos básicos sobre desarrollo de SPAs con React.js para crear aplicaciones robustas del lado del cliente. Aprender a trabajar con HTML y CSS para desarrollar sitios web estáticos responsivos y el uso básico de Git y Github para generar portafolio y desplegar sitios web.
-
-6.- JavaScript
+6.- JAVASCRIPT
 
 Obtener bases muy sólidas de programación con JavaScript. Emplear estas bases para aprender a manipular documentos HTML mediante el DOM y el manejo de eventos.
 
-7.- Computer Science
-
-Aprender las bases de ES6+ y POO para trabajar con estructuras de datos, algoritmos de búsqueda y algoritmos de ordenamiento.
-
-8.- JavaScript Avanzado
-
-Usar Node.js y trabajar conceptos avanzados de JS como Async y EventLoop. Aprender a instalar y utilizar paquetes de NPM. Aprender a consumir APIs mediante peticiones HTTP.
-
-9.- Frontend
-
-Obtener los conocimientos básicos sobre desarrollo de SPAs con React.js para crear aplicaciones robustas del lado del cliente
