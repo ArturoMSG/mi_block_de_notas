@@ -5,7 +5,7 @@ notas de mi curso de aprendizaje de Master en Coding
 
 [2.- JavaScript](temario/modulo_2.md)
 
-3.- [Computer Science](temario/modulo_3.md)
+[3.- Computer Science](temario/modulo_3.md)
 
 4.- JavaScript Avanzado
 
