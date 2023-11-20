@@ -7,20 +7,20 @@ notas de mi curso de aprendizaje de Master en Coding
 
 [3.- Computer Science](temario/modulo_3.md)
 
-4.- JavaScript Avanzado
+[4.- JavaScript Avanzado](temario/modulo_4.md)
 
-5.- Frontend
+[5.- Frontend](temario/modulo_5.md)
 
-6.- Frontend Avanzado
+[6.- Frontend Avanzado](temario/modulo_6.md)
 
-7.- Backend
+[7.- Backend](temario/modulo_7.md)
 
-8.- Backend Avanzado + NoSQL
+[8.- Backend Avanzado + NoSQL](temario/modulo_8.md)
 
-9.- Fullstack
+[9.- Fullstack](temario/modulo_9.md)
 
-10.- DevOps
+[10.- DevOps](temario/modulo_10.md)
 
-NOTAS
+[NOTAS](temario/notas.md)
 
    [sintaxis de markdoun](https://www.markdownguide.org/basic-syntax/)
