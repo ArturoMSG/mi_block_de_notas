@@ -23,4 +23,3 @@ notas de mi curso de aprendizaje de Master en Coding
 
 [NOTAS](temario/notas.md)
 
-   [sintaxis de markdoun](https://www.markdownguide.org/basic-syntax/)
