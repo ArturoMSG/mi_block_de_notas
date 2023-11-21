@@ -12,7 +12,7 @@ hay tres instancias  de inteligencia artificial.
 
    2.- usando el explorador google puedo ir a :
 
-        http://bard .google.com/chat
+        http://bard.google.com/chat
 
    3.- usar chatgpt creando mi cuanta.
 
