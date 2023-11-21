@@ -6,12 +6,9 @@ clases de curso de introduccion.
 
 hay tres instancias  de inteligencia artificial.
 
-    1.- usando explorador de microsoft explorer (microsof edge). 
+   1.- usando explorador de microsoft (microsoft edge), buscar Bing, y dar click en la opción de chat.
     
-        buscar Bing, click en la opción de chat.
-        
-https://www.bing.com/search?pglt=41&q=bing+ai&cvid=4992447446ad4563a9164d4aaff72c5d&gs_lcrp=EgZjaHJvbWUqBggAEAAYQDIGCAAQABhAMgYIARAAGEAyBggCEAAYQDIGCAMQABhAMgYIBBAAGEAyBggFEAAYQDIGCAYQABhAMgYIBxAAGEAyBggIEEUYPNIBCDIyMzFqMGoxqAIAsAIA&FORM=ANSPA1&PC=LCTS&showconv=1
-
+      > https://www.bing.com/search?pglt=41&q=bing+ai&cvid=4992447446ad4563a9164d4aaff72c5d&gs_lcrp=EgZjaHJvbWUqBggAEAAYQDIGCAAQABhAMgYIARAAGEAyBggCEAAYQDIGCAMQABhAMgYIBBAAGEAyBggFEAAYQDIGCAYQABhAMgYIBxAAGEAyBggIEEUYPNIBCDIyMzFqMGoxqAIAsAIA&FORM=ANSPA1&PC=LCTS&showconv=1
 
    2.- usando el explorador google puedo ir a :
 
@@ -40,4 +37,10 @@ informacion requiere verse antes del curso
 [5.-The relationship between HTML, CSS and JavaScript explained by building a city (lectura de 4 min).](https://www.freecodecamp.org/news/the-relationship-between-html-css-and-javascript-explained-by-building-a-city-a73a69c6343/)
 
 [6.-Eloquent JavaScript: Introducción Moderna a la Programación (guía completa en español)](https://hectorip.github.io/Eloquent-JavaScript-ES-online/)
+
+
+
+
+
+
 
