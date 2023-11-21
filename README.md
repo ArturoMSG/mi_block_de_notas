@@ -1,5 +1,8 @@
 # MI BLOG DE NOTAS
+
 notas de mi curso de aprendizaje de Master en Coding
+
+[INTRODUCCION](temario/introduccion.md)
 
 [1.- Intro a la Web](temario/modulo_1.md)
 
