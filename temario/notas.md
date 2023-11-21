@@ -3,3 +3,5 @@
    
 2.- [sintaxis de markdown](https://www.markdownguide.org/basic-syntax/) 
     en esta pagina se puede checar la sistaxis de markdown y css
+
+    hay tres instancias  de inteligencia artificial.
