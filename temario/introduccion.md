@@ -10,7 +10,7 @@ hay tres instancias  de inteligencia artificial.
     
         Puedo usan el buscador Bing de Microsoft y ahí la opción de chat usar esta liga.
             
-> https://www.bing.com/search?pglt=41&q=bing+ai&cvid=4992447446ad4563a9164d4aaff72c5d&gs_lcrp=EgZjaHJvbWUqBggAEAAYQDIGCAAQABhAMgYIARAAGEAyBggCEAAYQDIGCAMQABhAMgYIBBAAGEAyBggFEAAYQDIGCAYQABhAMgYIBxAAGEAyBggIEEUYPNIBCDIyMzFqMGoxqAIAsAIA&FORM=ANSPA1&PC=LCTS&showconv=1
+https://www.bing.com/search?pglt=41&q=bing+ai&cvid=4992447446ad4563a9164d4aaff72c5d&gs_lcrp=EgZjaHJvbWUqBggAEAAYQDIGCAAQABhAMgYIARAAGEAyBggCEAAYQDIGCAMQABhAMgYIBBAAGEAyBggFEAAYQDIGCAYQABhAMgYIBxAAGEAyBggIEEUYPNIBCDIyMzFqMGoxqAIAsAIA&FORM=ANSPA1&PC=LCTS&showconv=1
 
 
    2.- usando el explorador google puedo ir a :
