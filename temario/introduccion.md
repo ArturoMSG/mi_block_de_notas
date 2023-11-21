@@ -6,9 +6,9 @@ clases de curso de introduccion.
 
 hay tres instancias  de inteligencia artificial.
 
-    1.- usando explorador de microsoft. 
+    1.- usando explorador de microsoft explorer (microsof edge). 
     
-        buscar Bing de Microsoft y ahí la opción de chat.
+        buscar Bing, click en la opción de chat.
         
 https://www.bing.com/search?pglt=41&q=bing+ai&cvid=4992447446ad4563a9164d4aaff72c5d&gs_lcrp=EgZjaHJvbWUqBggAEAAYQDIGCAAQABhAMgYIARAAGEAyBggCEAAYQDIGCAMQABhAMgYIBBAAGEAyBggFEAAYQDIGCAYQABhAMgYIBxAAGEAyBggIEEUYPNIBCDIyMzFqMGoxqAIAsAIA&FORM=ANSPA1&PC=LCTS&showconv=1
 
