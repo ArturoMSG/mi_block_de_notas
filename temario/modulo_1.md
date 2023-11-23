@@ -2,7 +2,11 @@
 
 INTRODUCCION A LA WEB
 
-21 nov / 26 dic
+21 nov / 26 dic.
+
+21 nov. 2023
+
+Bienvenida al curso y registro en la plataforma del curso.
 
 4 Semanas
 
