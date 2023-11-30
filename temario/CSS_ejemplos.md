@@ -38,33 +38,33 @@ Intuición: utilice un selector de ID. Utilice [id=”fancy”] o el acceso dire
 
 # Nivel 4
 
-plate apple
+### plate apple
 
 Intuición: un selector descendente le permite seleccionar elementos secundarios de otro elemento.
 
 # Nivel 5
 
-#pepinillo elegante
+### #pepinillo elegante
 Intuición: queremos un pepinillo dentro de un padre de id=”plate”. Esta es una combinación de selectores de descendientes e ID.
 
 # Nivel 6
 
-.small
+### .small
 Intuición: selector de clases. El “.small” nos permite seleccionar todos los elementos con clase=”small”.
 
 # Nivel 7
 
-orange.small
+### orange.small
 Intuición: Combinación del Selector de Clases. Elegimos cada naranja con una clase = "pequeña". Recuerde que no necesitamos escribir la clase, simplemente use el "." (punto).
 
 # Nivel 8
 
-bento orange.small
+### bento orange.small
 Intuición: ahora usamos lo que hemos aprendido. Primero queremos un elemento bento con un niño naranja, que contenga la clase "pequeña".
 
 # Nivel 9
 
-bento, plate
+### bento, plate
 Intuición: combinador de comas. Utilice una coma entre sus selectores para combinarlos.
 
 # Nivel 10
@@ -74,22 +74,22 @@ Intuición: Utilice el asterisco, “*”, para seleccionar todo.
 
 # Nivel 11
 
-plate *
+### plate *
 Intuición: Combina el selector universal.
 
 # Nivel 12
 
-plate + apple
+### plate + apple
 Intuición: Podemos usar el Selector de hermanos adyacentes para elegir todas las manzanas al lado de un plato.
 
 # Nivel 13
 
-bento ~ pickle
+### bento ~ pickle
 Intuición: utilice el selector general de deslizamiento para colocar todos los elementos de pepinillo junto a un bento.
 
 Nivel 14
 
-plate > apple
+### plate > apple
 Intuición: Usamos el Selector de Niños para elegir la manzana que es hija de un plato.
 
 Nivel 15
