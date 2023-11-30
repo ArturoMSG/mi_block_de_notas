@@ -1,7 +1,6 @@
 
 
-Pagina para practicar CSS
-https://flukeout.github.io/
+[# Pagina para practicar CSS](https://flukeout.github.io/)
 
 
 soluciones
