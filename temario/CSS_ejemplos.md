@@ -2,8 +2,10 @@
 
 [# Pagina para practicar CSS](https://flukeout.github.io/)
 
+https://flukeout.github.io/
 
-soluciones
+[soluciones a los ejercicios y explicacion](https://andersjensen.org/solutions-to-css-diner/)
+
 https://andersjensen.org/solutions-to-css-diner/
 
 por si la pagina fue borrada puedes leeer lo que a continuacion esta 
