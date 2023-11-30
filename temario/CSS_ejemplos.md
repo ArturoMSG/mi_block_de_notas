@@ -11,71 +11,78 @@ https://andersjensen.org/solutions-to-css-diner/
 por si la pagina fue borrada puedes leeer lo que a continuacion esta 
 
 SOLUCIONES PARA CSS DINER
-CSS Diner es un lugar muy agradable que te permite aprender CSS muy rápido. Simplemente completa los 32 desafíos y asegúrate de comprender la intuición. Si te quedas atascado, lee a continuación y nuevamente asegúrate de comprender la intuición.
+   CSS Diner es un lugar muy agradable que te permite aprender CSS muy rápido. Simplemente 
+   completa los 32 desafíos y asegúrate de comprender la intuición. Si te quedas atascado,
+   lee a continuación y nuevamente asegúrate de comprender la intuición.
+
 
 Generalmente resolvemos/leemos los selectores al revés.
 
-Nivel 1
+# Nivel 1
 
-plate
+### plate
+
 Intuición: para seleccionar todos los elementos de un tipo, simplemente especifique el tipo.
 
-Nivel 2
+# Nivel 2
 
-bento
+## bento
+
 Intuición: para seleccionar todos los elementos de un tipo, simplemente especifique el tipo.
 
-Nivel 3
+# Nivel 3
 
-#fancy
+## #fancy
+
 Intuición: utilice un selector de ID. Utilice [id=”fancy”] o el acceso directo para id, “#”.
 
-Nivel 4
+# Nivel 4
 
 plate apple
+
 Intuición: un selector descendente le permite seleccionar elementos secundarios de otro elemento.
 
-Nivel 5
+# Nivel 5
 
 #pepinillo elegante
 Intuición: queremos un pepinillo dentro de un padre de id=”plate”. Esta es una combinación de selectores de descendientes e ID.
 
-Nivel 6
+# Nivel 6
 
 .small
 Intuición: selector de clases. El “.small” nos permite seleccionar todos los elementos con clase=”small”.
 
-Nivel 7
+# Nivel 7
 
 orange.small
 Intuición: Combinación del Selector de Clases. Elegimos cada naranja con una clase = "pequeña". Recuerde que no necesitamos escribir la clase, simplemente use el "." (punto).
 
-Nivel 8
+# Nivel 8
 
 bento orange.small
 Intuición: ahora usamos lo que hemos aprendido. Primero queremos un elemento bento con un niño naranja, que contenga la clase "pequeña".
 
-Nivel 9
+# Nivel 9
 
 bento, plate
 Intuición: combinador de comas. Utilice una coma entre sus selectores para combinarlos.
 
-Nivel 10
+# Nivel 10
 
 *
 Intuición: Utilice el asterisco, “*”, para seleccionar todo.
 
-Nivel 11
+# Nivel 11
 
 plate *
 Intuición: Combina el selector universal.
 
-Nivel 12
+# Nivel 12
 
 plate + apple
 Intuición: Podemos usar el Selector de hermanos adyacentes para elegir todas las manzanas al lado de un plato.
 
-Nivel 13
+# Nivel 13
 
 bento ~ pickle
 Intuición: utilice el selector general de deslizamiento para colocar todos los elementos de pepinillo junto a un bento.
