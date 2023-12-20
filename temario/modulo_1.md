@@ -15,3 +15,5 @@ Aprender a trabajar con HTML y CSS para desarrollar sitios web estáticos respon
 [Flex- referencia practica](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 
 [grid- referencia practica](https://css-tricks.com/snippets/css/complete-guide-grid/)
+
+ [Grid clase youtube, muy buena expliccion](https://www.youtube.com/watch?v=iTjkiI8QQsM)
