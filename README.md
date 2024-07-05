@@ -24,7 +24,7 @@ notas de mi curso de aprendizaje de Master en Coding
 
 [10.- DevOps](temario/modulo_10.md)
 
-[10.- Temas Independientes](temario/temas_independientes.md)
+[11.- Temas Independientes](temario/temas_independientes.md)
 
 [NOTAS](temario/notas.md)
 
